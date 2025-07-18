@@ -12,7 +12,7 @@ export default function Home() {
         <a href="https://open-beige.vercel.app/" target="_system">
           Link Text
         </a>
-        <a href="https://open-beige.vercel.app/" target="_blank">
+        <a href="https://open-beige.vercel.app/?force_browser=1" target="_blank">
           Continue in full browser
         </a>
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
