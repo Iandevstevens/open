@@ -12,6 +12,9 @@ export default function Home() {
         <a href="https://open-beige.vercel.app/" target="_system">
           Link Text
         </a>
+        <a href="https://open-beige.vercel.app/" target="_blank">
+          Continue in full browser
+        </a>
         <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
           <li className="mb-2 tracking-[-.01em]">
             Get started by editing <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">src/app/page.tsx</code>.
